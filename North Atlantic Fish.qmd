@@ -1,0 +1,20 @@
+---
+title: "North Atlantic Fish"
+author: "Ingrid"
+date: now
+bibliography: references.bib
+---
+
+## Method 
+
+Data was imported from @rindorf2020
+
+## Results
+
+```{r}
+atlantic <- read.csv("dryad_abundance.csv", sep = ";")
+```
+
+```{r}
+1 + 1
+```
